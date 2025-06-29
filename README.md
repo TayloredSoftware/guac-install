@@ -40,7 +40,7 @@ Does not work if you have MFA turned on (however, you can authenticate via the g
 
 ### Download file directly from here:
 
-`wget https://git.io/fxZq5 -O guac-install.sh`
+`wget https://t.ly/t9Hhl -O guac-install.sh`
 
 ### Make it executable:
 
